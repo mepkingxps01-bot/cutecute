@@ -31,6 +31,7 @@ const CONFIG = {
     { url: "./photos/photo3.jpg",  caption: "Disneyland with you 🏰✨" },
     { url: "./photos/photo4.jpg",  caption: "Japan together 🇯🇵🌸" },
     { url: "./photos/photo5.jpg",  caption: "I'm yours 💖" },
+    { url: "./photos/photo6.jpg",  caption: "Best day ever 🦕" },
   ],
 
   // ── LOVE QUIZ ─────────────────────────────────────────────
