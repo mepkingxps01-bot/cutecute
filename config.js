@@ -20,10 +20,6 @@ const CONFIG = {
   //  3. Copy the photo into the "photos/" folder in this project
   //  4. Update the url below, e.g. "./photos/photo1.jpg"
   //
-  //  OR on desktop: right-click a photo → "Copy Image Address"
-  //  and paste that URL directly (works while Instagram is logged in)
-  //
-  //
   //  PHOTOS — upload your files to the photos/ folder on GitHub.
   //  Name them exactly as shown below.
   //  Any photo that doesn't exist is automatically hidden.
