@@ -62,7 +62,7 @@ const CONFIG = {
     {
       question: "When did I realise I was falling for you?",
       options:  ["The first time I saw you", "During our first date", "When I got to know the real you", "I've always known"],
-      correct:  2,
+      correct:  0,
       hint:     "The more I learned about you, the harder I fell 💞"
     },
     {
