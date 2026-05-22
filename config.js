@@ -24,32 +24,17 @@ const CONFIG = {
   //  and paste that URL directly (works while Instagram is logged in)
   //
   //
-  //  PHOTOS — just upload your files to the photos/ folder on GitHub.
-  //  Name them photo1.jpg, photo2.jpg, photo3.jpg ... up to photo20.jpg
-  //  Any photo you don't upload is automatically hidden — no need to delete lines here.
-  //  Change the caption text to whatever you want shown on each photo.
+  //  PHOTOS — upload your files to the photos/ folder on GitHub.
+  //  Name them exactly as shown below.
+  //  Any photo that doesn't exist is automatically hidden.
+  //  Feel free to change the caption text to anything you like!
   //
   photos: [
-    { url: "./photos/photo1.jpg",  caption: "💕" },
-    { url: "./photos/photo2.jpg",  caption: "💕" },
-    { url: "./photos/photo3.jpg",  caption: "💕" },
-    { url: "./photos/photo4.jpg",  caption: "💕" },
-    { url: "./photos/photo5.jpg",  caption: "💕" },
-    { url: "./photos/photo6.jpg",  caption: "💕" },
-    { url: "./photos/photo7.jpg",  caption: "💕" },
-    { url: "./photos/photo8.jpg",  caption: "💕" },
-    { url: "./photos/photo9.jpg",  caption: "💕" },
-    { url: "./photos/photo10.jpg", caption: "💕" },
-    { url: "./photos/photo11.jpg", caption: "💕" },
-    { url: "./photos/photo12.jpg", caption: "💕" },
-    { url: "./photos/photo13.jpg", caption: "💕" },
-    { url: "./photos/photo14.jpg", caption: "💕" },
-    { url: "./photos/photo15.jpg", caption: "💕" },
-    { url: "./photos/photo16.jpg", caption: "💕" },
-    { url: "./photos/photo17.jpg", caption: "💕" },
-    { url: "./photos/photo18.jpg", caption: "💕" },
-    { url: "./photos/photo19.jpg", caption: "💕" },
-    { url: "./photos/photo20.jpg", caption: "💕" },
+    { url: "./photos/photo1.jpg",  caption: "Us 🌙" },
+    { url: "./photos/photo2.jpg",  caption: "Always you 💕" },
+    { url: "./photos/photo3.jpg",  caption: "Disneyland with you 🏰✨" },
+    { url: "./photos/photo4.jpg",  caption: "Japan together 🇯🇵🌸" },
+    { url: "./photos/photo5.jpg",  caption: "I'm yours 💖" },
   ],
 
   // ── LOVE QUIZ ─────────────────────────────────────────────
