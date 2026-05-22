@@ -112,6 +112,6 @@ You are the only ICE i melt to. 💖`,
   finalPhoto: "./photos/us.jpg",
 
   // Your sign-off at the bottom of the love letter
-  signature: "Yours, always ❤️",
+  signature: "ไก่ไก่ไก่ตัวเล็กตัวใหญ่ ❤️",
 
 };
