@@ -60,10 +60,10 @@ const CONFIG = {
   //
   quiz: [
     {
-      question: "Where did we have our first date?",
-      options:  ["Coffee shop", "Restaurant", "Park", "Cinema"],
+      question: "Where we first met ? ?",
+      options:  ["Labor room ", "Toilet", "Cinema", "School"],
       correct:  0,
-      hint:     "Hint: somewhere cozy with warm drinks ☕"
+      hint:     "Hint: อุแว๊ๆ ☕"
     },
     {
       question: "What is my very favourite thing about you?",
@@ -104,7 +104,8 @@ Every photo here is a memory I'll carry with me forever. Every moment with you, 
 You are my favourite person in the entire world, and I'm so lucky that I get to call you mine.
 
 Thank you for being you.
-I love you more than words could ever say. 💖`,
+I love you more than words could ever say
+You are the only ICE i melt to. 💖`,
 
   // A special photo shown in the final message — use your best photo together!
   // Put the file in the photos/ folder, e.g. "./photos/us.jpg"
