@@ -792,7 +792,7 @@ function buildGallery() {
       img.alt   = p.caption || '';
       img.loading = 'lazy';
       img.onerror = () => {
-        card.innerHTML = placeholder(p.caption || `Memory ${idx + 1}`);
+        card.style.display = 'none';
       };
       card.appendChild(img);
 

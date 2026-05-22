@@ -23,14 +23,33 @@ const CONFIG = {
   //  OR on desktop: right-click a photo → "Copy Image Address"
   //  and paste that URL directly (works while Instagram is logged in)
   //
+  //
+  //  PHOTOS — just upload your files to the photos/ folder on GitHub.
+  //  Name them photo1.jpg, photo2.jpg, photo3.jpg ... up to photo20.jpg
+  //  Any photo you don't upload is automatically hidden — no need to delete lines here.
+  //  Change the caption text to whatever you want shown on each photo.
+  //
   photos: [
-    { url: "./photos/photo1.jpg",  caption: "Our first date 💕" },
-    { url: "./photos/photo2.jpg",  caption: "Best day ever 🌸"  },
-    { url: "./photos/photo3.jpg",  caption: "This smile 😍"     },
-    { url: "./photos/photo4.jpg",  caption: "My favourite memory ✨" },
-    { url: "./photos/photo5.jpg",  caption: "Just us ❤️"        },
-    { url: "./photos/photo6.jpg",  caption: "Forever & always 💖" },
-    // { url: "./photos/photo7.jpg", caption: "Add more..." },
+    { url: "./photos/photo1.jpg",  caption: "💕" },
+    { url: "./photos/photo2.jpg",  caption: "💕" },
+    { url: "./photos/photo3.jpg",  caption: "💕" },
+    { url: "./photos/photo4.jpg",  caption: "💕" },
+    { url: "./photos/photo5.jpg",  caption: "💕" },
+    { url: "./photos/photo6.jpg",  caption: "💕" },
+    { url: "./photos/photo7.jpg",  caption: "💕" },
+    { url: "./photos/photo8.jpg",  caption: "💕" },
+    { url: "./photos/photo9.jpg",  caption: "💕" },
+    { url: "./photos/photo10.jpg", caption: "💕" },
+    { url: "./photos/photo11.jpg", caption: "💕" },
+    { url: "./photos/photo12.jpg", caption: "💕" },
+    { url: "./photos/photo13.jpg", caption: "💕" },
+    { url: "./photos/photo14.jpg", caption: "💕" },
+    { url: "./photos/photo15.jpg", caption: "💕" },
+    { url: "./photos/photo16.jpg", caption: "💕" },
+    { url: "./photos/photo17.jpg", caption: "💕" },
+    { url: "./photos/photo18.jpg", caption: "💕" },
+    { url: "./photos/photo19.jpg", caption: "💕" },
+    { url: "./photos/photo20.jpg", caption: "💕" },
   ],
 
   // ── LOVE QUIZ ─────────────────────────────────────────────
